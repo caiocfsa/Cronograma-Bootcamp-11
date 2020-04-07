@@ -1,9 +1,15 @@
+
+![enter image description here](https://i.imgur.com/RMfPPwN.png)
+
+### Desafio 1: Planejando meus estudos
 # Cronograma de Estudos Bootcamp
 
 **> Rocketseat**
 
 Cronograma estruturado na aplicação Todoist ( Aplicação onde utilizo a metodologia GTD para execução de Tarefas Diariamente )
+  
 
+ - (Obs: Preferencia por Todoist pois utilizo o Plano Pago e o Uso Diariamente)
 
 # Projeto do Cronograma
 
